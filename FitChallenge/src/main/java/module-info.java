@@ -1,0 +1,3 @@
+module FitChallenge {
+    requires Athlete;
+}

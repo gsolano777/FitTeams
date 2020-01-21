@@ -1,0 +1,3 @@
+module HealthIndexes {
+    requires Athlete;
+}
